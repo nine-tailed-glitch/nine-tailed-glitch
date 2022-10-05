@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1>
+  <div id="header" align="center">
+    HELLO THERE
+  </div>
+</h1>
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=nine-tailed-glitch&style=flat-square&color=blue" alt=""/>
+</div>
+
 
 <!--
 **nine-tailed-glitch/nine-tailed-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
