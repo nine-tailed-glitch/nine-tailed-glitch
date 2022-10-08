@@ -3,9 +3,11 @@
     HELLO THERE
   </div>
 </h1>
+<!--
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=nine-tailed-glitch&style=flat-square&color=blue" alt=""/>
 </div>
+-->
 <div align="center">
   <img src="https://media.giphy.com/media/C4NdKtRaQE9m8/giphy.gif" width="600" height="300"/>
   
